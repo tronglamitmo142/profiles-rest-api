@@ -689,4 +689,4 @@ ssh-rsa AAAAB3NzaC1yc2EAAAADAQABAAABAQC659ZZ+93pn6zVIFTVI2qyzPWUQO7Uw8XgCRGOkx6/
 
 Ubuntu 18.04.6 LTS ubuntu-bionic ttyS0
 
-ubuntu-bionic login: 
+ubuntu-bionic login: [11003.529797] e1000 0000:00:03.0 enp0s3: Reset adapter
